@@ -1,0 +1,29 @@
+body {
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+@media(max-width: 767px) {
+    body {
+        background-image: url('../../img/bg-mobile.png');
+    }
+}
+
+@media(min-width: 768px) {
+    body {
+        background-image: url('../../img/header.png');
+    }
+}
+
+
+.txt {
+    letter-spacing: 3px;
+}
+
+.login {
+    bottom: 0;
+}
+
+.box {
+    border: 1px solid red;
+}
