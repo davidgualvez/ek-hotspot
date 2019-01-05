@@ -3,7 +3,7 @@ $(document).ready(function(){
 }); 
 
 //global variable for all page  
-var api = 'http://192.168.88.254:9000';
+var api = 'http://192.168.88.3:9000';
 var routes = {
    todaysSpecial  : '/api/today_special'
 };
