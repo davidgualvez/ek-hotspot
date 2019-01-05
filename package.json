@@ -1,0 +1,29 @@
+{
+  "name": "portal",
+  "version": "1.0.0",
+  "description": "a open portal for your business",
+  "main": "md5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidgualvez/ek-hotspot.git"
+  },
+  "keywords": [
+    "ek-hotspot"
+  ],
+  "author": "David Gualvez L.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidgualvez/ek-hotspot/issues"
+  },
+  "homepage": "https://github.com/davidgualvez/ek-hotspot#readme",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "izitoast": "^1.4.0",
+    "jquery": "^3.3.1",
+    "jquery-confirm": "^3.3.3",
+    "popper": "^1.0.1"
+  }
+}
